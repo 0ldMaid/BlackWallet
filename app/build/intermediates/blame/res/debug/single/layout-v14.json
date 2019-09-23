@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\send_coins_buttons_include.xml",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\layout-v14\\send_coins_buttons_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\sherlock_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout-v14\\sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\sherlock_spinner_item.xml",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout-v14\\sherlock_spinner_item.xml"
+    }
+]

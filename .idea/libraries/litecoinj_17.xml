@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="litecoinj-17">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/litecoinj-17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

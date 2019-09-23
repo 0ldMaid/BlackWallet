@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\send_coins_address_context.xml",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\menu\\send_coins_address_context.xml"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\exchange_rates_context.xml",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\menu\\exchange_rates_context.xml"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\send_coins_fragment_options.xml",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\menu\\send_coins_fragment_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\wallet_addresses_context.xml",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\menu\\wallet_addresses_context.xml"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\send_coins_activity_options.xml",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\menu\\send_coins_activity_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sending_addresses_fragment_options.xml",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\menu\\sending_addresses_fragment_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\request_coins_activity_options.xml",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\menu\\request_coins_activity_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\request_coins_fragment_options.xml",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\menu\\request_coins_fragment_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\wallet_options.xml",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\menu\\wallet_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\wallet_addresses_fragment_options.xml",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\menu\\wallet_addresses_fragment_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sending_addresses_context.xml",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\menu\\sending_addresses_context.xml"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\wallet_transactions_context.xml",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\menu\\wallet_transactions_context.xml"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\menu\\blocks_context.xml",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\menu\\blocks_context.xml"
+    }
+]

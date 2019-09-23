@@ -1,0 +1,570 @@
+[
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_disable.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_disable.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_shadow_horizontal_flip.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\fragment_shadow_horizontal_flip.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dropdown_ic_arrow_pressed_holo_light.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\dropdown_ic_arrow_pressed_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\coinbase.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\coinbase.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_shadow_horizontal_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\fragment_shadow_horizontal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_default_pressed.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\btn_default_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_menu_share_holo_light.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textfield_default.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\textfield_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qrcode_frame_pressed.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\qrcode_frame_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_right_default_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textfield_pressed.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\textfield_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_cab_done_holo_light.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_right_selected_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_ab_back_holo_dark.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__cab_background_top_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_48_inner_holo.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_48_inner_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_labels.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\ic_action_labels.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__btn_cab_done_default_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__btn_cab_done_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_pressed.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__btn_cab_done_focused_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__btn_cab_done_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_divider_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textfield_disabled_selected.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\textfield_disabled_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_delete.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textfield_disabled.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\textfield_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_default_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_share_pack_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__progress_primary_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__progress_primary_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_disable.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_disable.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_longpressed_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_go.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_go.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__btn_cab_done_default_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__btn_cab_done_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_ab_back_holo_light.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spinner_pressed.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\spinner_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dropdown_ic_arrow_focused_holo_light.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\dropdown_ic_arrow_focused_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_clear_disabled.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_clear_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_pressed_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_share_pack_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_stacked_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__toast_frame.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__toast_frame.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__cab_background_top_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_solid_light_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_default_normal_disable.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\btn_default_normal_disable.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_voice_search_api_holo_light.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_commit_search_api_holo_light.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_clear.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\ic_action_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_bottom_transparent_light_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spinner_default.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\spinner_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__cab_background_bottom_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_shadow_vertical.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\fragment_shadow_vertical.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_share.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__cab_background_bottom_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_selected.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_edit.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\ic_action_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__progress_bg_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__progress_bg_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fragment_shadow_vertical_flip.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\fragment_shadow_vertical_flip.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__btn_cab_done_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__btn_cab_done_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_voice_search.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_voice_search.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_default_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_selected_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_right_selected_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_clear_search_api_holo_light.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dropdown_ic_arrow_small_normal_holo_light.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\dropdown_ic_arrow_small_normal_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_transparent_light_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_focused_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_focused_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spinner_selected.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\spinner_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_solid_dark_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dropdown_ic_arrow_small_pressed_holo_light.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\dropdown_ic_arrow_small_pressed_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_activated_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__list_activated_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_send.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\ic_action_send.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_bottom_solid_inverse_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_bottom_solid_inverse_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_default_normal.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\btn_default_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup_frame_below.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\popup_frame_below.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_warning.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_48_outer_holo.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_48_outer_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_right_default_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_default_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__menu_dropdown_panel_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dropdown_ic_arrow_small_focused_holo_light.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\dropdown_ic_arrow_small_focused_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_go_search_api_holo_light.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_stacked_solid_light_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_divider_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_bottom_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_default_selected.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\btn_default_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__btn_cab_done_pressed_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__btn_cab_done_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__progress_secondary_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__progress_secondary_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_solid_shadow_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_solid_shadow_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_default_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_clear_search_api_disabled_holo_light.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_menu_share_holo_dark.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__menu_dropdown_panel_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_set_as_default.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\ic_action_set_as_default.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_bottom_solid_dark_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__progress_secondary_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__progress_secondary_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_receive.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\ic_action_receive.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_disable_focused.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_disable_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup_frame_above.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\popup_frame_above.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_focused_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_selected.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__progress_primary_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__progress_primary_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_copy.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\ic_action_copy.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_cab_done_holo_dark.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qrcode_frame_focused.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\qrcode_frame_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_qr.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\ic_action_qr.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_add.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\toast_frame.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\toast_frame.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_paste.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\ic_action_paste.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_search_api_holo_light.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dropdown_ic_arrow_normal_holo_light.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\dropdown_ic_arrow_normal_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_search.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__tab_selected_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qrcode_frame_default.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\qrcode_frame_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_default_normal_disable_focused.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\btn_default_normal_disable_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_clear_normal.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_clear_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_pressed.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__textfield_search_selected_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_stacked_solid_dark_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_camera.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\ic_action_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_disabled_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_disable_focused.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off_disable_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textfield_selected.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\textfield_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_bottom_solid_light_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_stacked_transparent_light_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__progress_bg_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__progress_bg_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__btn_cab_done_focused_holo_light.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__btn_cab_done_focused_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ic_commit_search_api_holo_dark.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable-hdpi\\abs__ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_input_delete.png",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\drawable-hdpi\\ic_input_delete.png"
+    }
+]

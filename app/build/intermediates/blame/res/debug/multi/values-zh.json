@@ -1,0 +1,1307 @@
+[
+    {
+        "outputFile": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 67,
+                    "endOffset": 118
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 1,
+                        "startOffset": 3575,
+                        "endColumn": 64,
+                        "endOffset": 3638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 123,
+                    "endColumn": 64,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 1,
+                        "startOffset": 3513,
+                        "endColumn": 61,
+                        "endOffset": 3573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 75,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 1,
+                        "startOffset": 3440,
+                        "endColumn": 72,
+                        "endOffset": 3511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 264,
+                    "endColumn": 76,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 1,
+                        "startOffset": 3299,
+                        "endColumn": 73,
+                        "endOffset": 3371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endColumn": 71,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 1,
+                        "startOffset": 3706,
+                        "endColumn": 68,
+                        "endOffset": 3773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 69,
+                    "endOffset": 478
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 1,
+                        "startOffset": 3373,
+                        "endColumn": 66,
+                        "endOffset": 3438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 483,
+                    "endColumn": 50,
+                    "endOffset": 529
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 1,
+                        "startOffset": 3251,
+                        "endColumn": 47,
+                        "endOffset": 3297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 534,
+                    "endColumn": 68,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 1,
+                        "startOffset": 3640,
+                        "endColumn": 65,
+                        "endOffset": 3704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 42,
+                    "endOffset": 641
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 1,
+                        "startOffset": 3211,
+                        "endColumn": 39,
+                        "endOffset": 3249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 646,
+                    "endColumn": 59,
+                    "endOffset": 701
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 1,
+                        "startOffset": 2404,
+                        "endColumn": 56,
+                        "endOffset": 2459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 706,
+                    "endColumn": 79,
+                    "endOffset": 781
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 1,
+                        "startOffset": 2774,
+                        "endColumn": 76,
+                        "endOffset": 2849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 786,
+                    "endColumn": 64,
+                    "endOffset": 846
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 1,
+                        "startOffset": 2582,
+                        "endColumn": 61,
+                        "endOffset": 2642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 851,
+                    "endColumn": 66,
+                    "endOffset": 913
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 1,
+                        "startOffset": 2644,
+                        "endColumn": 63,
+                        "endOffset": 2706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 918,
+                    "endColumn": 66,
+                    "endOffset": 980
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 1,
+                        "startOffset": 2518,
+                        "endColumn": 63,
+                        "endOffset": 2580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 985,
+                    "endColumn": 68,
+                    "endOffset": 1049
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 1,
+                        "startOffset": 2708,
+                        "endColumn": 65,
+                        "endOffset": 2772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1054,
+                    "endColumn": 59,
+                    "endOffset": 1109
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 1,
+                        "startOffset": 2461,
+                        "endColumn": 56,
+                        "endOffset": 2516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1114,
+                    "endColumn": 41,
+                    "endOffset": 1151
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 1,
+                        "startOffset": 4060,
+                        "endColumn": 38,
+                        "endOffset": 4097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1156,
+                    "endColumn": 44,
+                    "endOffset": 1196
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 1,
+                        "startOffset": 3978,
+                        "endColumn": 41,
+                        "endOffset": 4018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1201,
+                    "endColumn": 44,
+                    "endOffset": 1241
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 1,
+                        "startOffset": 4099,
+                        "endColumn": 41,
+                        "endOffset": 4139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1246,
+                    "endColumn": 45,
+                    "endOffset": 1287
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 1,
+                        "startOffset": 3935,
+                        "endColumn": 42,
+                        "endOffset": 3976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1292,
+                    "endColumn": 42,
+                    "endOffset": 1330
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 1,
+                        "startOffset": 4020,
+                        "endColumn": 39,
+                        "endOffset": 4058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1335,
+                    "endColumn": 57,
+                    "endOffset": 1388
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 1,
+                        "startOffset": 4182,
+                        "endColumn": 54,
+                        "endOffset": 4235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1393,
+                    "endColumn": 51,
+                    "endOffset": 1440
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 1,
+                        "startOffset": 4237,
+                        "endColumn": 48,
+                        "endOffset": 4284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1445,
+                    "endColumn": 43,
+                    "endOffset": 1484
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 1,
+                        "startOffset": 4141,
+                        "endColumn": 40,
+                        "endOffset": 4180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1489,
+                    "endColumn": 75,
+                    "endOffset": 1560
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 1,
+                        "startOffset": 2995,
+                        "endColumn": 72,
+                        "endOffset": 3066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1565,
+                    "endColumn": 73,
+                    "endOffset": 1634
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 1,
+                        "startOffset": 3139,
+                        "endColumn": 70,
+                        "endOffset": 3208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1639,
+                    "endColumn": 73,
+                    "endOffset": 1708
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 1,
+                        "startOffset": 3068,
+                        "endColumn": 70,
+                        "endOffset": 3137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1713,
+                    "endColumn": 73,
+                    "endOffset": 1782
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 1,
+                        "startOffset": 2852,
+                        "endColumn": 70,
+                        "endOffset": 2921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1787,
+                    "endColumn": 74,
+                    "endOffset": 1857
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 1,
+                        "startOffset": 2923,
+                        "endColumn": 71,
+                        "endOffset": 2993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1862,
+                    "endColumn": 69,
+                    "endOffset": 1927
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 512,
+                        "endColumn": 66,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1932,
+                    "endLine": 49,
+                    "endColumn": 13,
+                    "endOffset": 2267
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings_help.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 483,
+                        "endLine": 45,
+                        "endColumn": 13,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2272,
+                    "endLine": 85,
+                    "endColumn": 13,
+                    "endOffset": 3851
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings_help.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 1238,
+                        "endLine": 107,
+                        "endColumn": 13,
+                        "endOffset": 2727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 3856,
+                    "endLine": 111,
+                    "endColumn": 13,
+                    "endOffset": 4302
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings_help.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endLine": 71,
+                        "endColumn": 13,
+                        "endOffset": 1233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4307,
+                    "endLine": 137,
+                    "endColumn": 13,
+                    "endOffset": 4748
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings_help.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 27,
+                        "endColumn": 13,
+                        "endOffset": 478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 4753,
+                    "endColumn": 68,
+                    "endOffset": 4817
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 1,
+                        "startOffset": 3776,
+                        "endColumn": 65,
+                        "endOffset": 3840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 4822,
+                    "endColumn": 68,
+                    "endOffset": 4886
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 1,
+                        "startOffset": 3842,
+                        "endColumn": 65,
+                        "endOffset": 3906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 4891,
+                    "endColumn": 62,
+                    "endOffset": 4949
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 1968,
+                        "endColumn": 59,
+                        "endOffset": 2026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 4954,
+                    "endColumn": 71,
+                    "endOffset": 5021
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 1,
+                        "startOffset": 2263,
+                        "endColumn": 68,
+                        "endOffset": 2330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 5026,
+                    "endColumn": 72,
+                    "endOffset": 5094
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 2028,
+                        "endColumn": 69,
+                        "endOffset": 2096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 5099,
+                    "endColumn": 87,
+                    "endOffset": 5182
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 2178,
+                        "endColumn": 84,
+                        "endOffset": 2261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 5187,
+                    "endColumn": 82,
+                    "endOffset": 5265
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 1,
+                        "startOffset": 2098,
+                        "endColumn": 79,
+                        "endOffset": 2176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 5270,
+                    "endColumn": 73,
+                    "endOffset": 5339
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 1,
+                        "startOffset": 2332,
+                        "endColumn": 70,
+                        "endOffset": 2401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 5344,
+                    "endColumn": 59,
+                    "endOffset": 5399
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 1323,
+                        "endColumn": 56,
+                        "endOffset": 1378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 5404,
+                    "endColumn": 58,
+                    "endOffset": 5458
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 1,
+                        "startOffset": 1911,
+                        "endColumn": 55,
+                        "endOffset": 1965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 5463,
+                    "endColumn": 63,
+                    "endOffset": 5522
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1737,
+                        "endColumn": 60,
+                        "endOffset": 1796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 5527,
+                    "endColumn": 68,
+                    "endOffset": 5591
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 1604,
+                        "endColumn": 65,
+                        "endOffset": 1668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 5596,
+                    "endColumn": 62,
+                    "endOffset": 5654
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1798,
+                        "endColumn": 59,
+                        "endOffset": 1856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 5659,
+                    "endColumn": 69,
+                    "endOffset": 5724
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1670,
+                        "endColumn": 66,
+                        "endOffset": 1735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 5729,
+                    "endColumn": 77,
+                    "endOffset": 5802
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 1529,
+                        "endColumn": 74,
+                        "endOffset": 1602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 5807,
+                    "endColumn": 78,
+                    "endOffset": 5881
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 1453,
+                        "endColumn": 75,
+                        "endOffset": 1527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 5886,
+                    "endColumn": 75,
+                    "endOffset": 5957
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 1380,
+                        "endColumn": 72,
+                        "endOffset": 1451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 5962,
+                    "endColumn": 55,
+                    "endOffset": 6013
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 1,
+                        "startOffset": 1858,
+                        "endColumn": 52,
+                        "endOffset": 1909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 6018,
+                    "endColumn": 65,
+                    "endOffset": 6079
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 62,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 6084,
+                    "endColumn": 78,
+                    "endOffset": 6158
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 268,
+                        "endColumn": 75,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 6163,
+                    "endColumn": 65,
+                    "endOffset": 6224
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 205,
+                        "endColumn": 62,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 6229,
+                    "endColumn": 94,
+                    "endOffset": 6319
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 420,
+                        "endColumn": 91,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 6324,
+                    "endColumn": 78,
+                    "endOffset": 6398
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 344,
+                        "endColumn": 75,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 6403,
+                    "endColumn": 89,
+                    "endOffset": 6488
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 118,
+                        "endColumn": 86,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 6493,
+                    "endColumn": 72,
+                    "endOffset": 6561
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 1252,
+                        "endColumn": 69,
+                        "endOffset": 1320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 6566,
+                    "endColumn": 135,
+                    "endOffset": 6697
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 1119,
+                        "endColumn": 132,
+                        "endOffset": 1250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 6702,
+                    "endColumn": 70,
+                    "endOffset": 6768
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 1051,
+                        "endColumn": 67,
+                        "endOffset": 1117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 6773,
+                    "endColumn": 52,
+                    "endOffset": 6821
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 1001,
+                        "endColumn": 49,
+                        "endOffset": 1049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 6826,
+                    "endColumn": 57,
+                    "endOffset": 6879
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 946,
+                        "endColumn": 54,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 6884,
+                    "endColumn": 87,
+                    "endOffset": 6967
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 780,
+                        "endColumn": 84,
+                        "endOffset": 863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 6972,
+                    "endColumn": 83,
+                    "endOffset": 7051
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 865,
+                        "endColumn": 80,
+                        "endOffset": 944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 7056,
+                    "endColumn": 67,
+                    "endOffset": 7119
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 649,
+                        "endColumn": 64,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 7124,
+                    "endColumn": 72,
+                    "endOffset": 7192
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 579,
+                        "endColumn": 69,
+                        "endOffset": 647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 7197,
+                    "endColumn": 68,
+                    "endOffset": 7261
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 714,
+                        "endColumn": 65,
+                        "endOffset": 778
+                    }
+                }
+            }
+        ]
+    }
+]

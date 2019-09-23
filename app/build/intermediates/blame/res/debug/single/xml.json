@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\xml\\about.xml",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\xml\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\xml\\wallet_balance_widget.xml",
+        "source": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\xml\\wallet_balance_widget.xml"
+    }
+]

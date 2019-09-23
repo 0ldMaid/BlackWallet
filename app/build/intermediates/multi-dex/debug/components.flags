@@ -1,0 +1,101 @@
+-injars 'C:\Users\samsung\workspace\BlackWallet\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'C:\Users\samsung\workspace\BlackWallet\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\samsung\AppData\Local\Android\Sdk\build-tools\23.0.3\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
+-dontwarn **
+-printconfiguration 'C:\Users\samsung\workspace\BlackWallet\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class org.blackhat.wallet.WalletApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class org.blackhat.wallet.ui.WalletActivity {
+    <init>();
+}
+
+-keep class org.blackhat.wallet.ui.SendCoinsActivity {
+    <init>();
+}
+
+-keep class org.blackhat.wallet.ui.SendCoinsQrActivity {
+    <init>();
+}
+
+-keep class org.blackhat.wallet.ui.RequestCoinsActivity {
+    <init>();
+}
+
+-keep class org.blackhat.wallet.ui.TransactionActivity {
+    <init>();
+}
+
+-keep class org.blackhat.wallet.ui.AddressBookActivity {
+    <init>();
+}
+
+-keep class org.blackhat.wallet.ui.ExchangeRatesActivity {
+    <init>();
+}
+
+-keep class org.blackhat.wallet.ui.NetworkMonitorActivity {
+    <init>();
+}
+
+-keep class org.blackhat.wallet.ui.PreferencesActivity {
+    <init>();
+}
+
+-keep class org.blackhat.wallet.ui.AboutActivity {
+    <init>();
+}
+
+-keep class org.blackhat.wallet.ui.ImportKeysActivity {
+    <init>();
+}
+
+-keep class org.blackhat.wallet.ui.ScanActivity {
+    <init>();
+}
+
+-keep class org.blackhat.wallet.AddressBookProvider {
+    <init>();
+}
+
+-keep class org.blackhat.wallet.ExchangeRatesProvider {
+    <init>();
+}
+
+-keep class org.blackhat.wallet.WalletBalanceWidgetProvider {
+    <init>();
+}
+
+-keep class org.blackhat.wallet.service.BlockchainServiceImpl {
+    <init>();
+}
+
+-keep class org.blackhat.wallet.offline.AcceptBluetoothService {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

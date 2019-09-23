@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\values-normal-land-v4\\values-normal-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-normal-land\\layouts.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 424,
+                        "endColumn": 57,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 88,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-normal-land\\layouts.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 246,
+                        "endColumn": 85,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 94,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-normal-land\\layouts.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 332,
+                        "endColumn": 91,
+                        "endOffset": 422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 300,
+                    "endColumn": 102,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-normal-land\\layouts.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 146,
+                        "endColumn": 99,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 95,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-normal-land\\layouts.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 53,
+                        "endColumn": 92,
+                        "endOffset": 144
+                    }
+                }
+            }
+        ]
+    }
+]

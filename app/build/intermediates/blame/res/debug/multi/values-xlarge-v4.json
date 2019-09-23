@@ -1,0 +1,539 @@
+[
+    {
+        "outputFile": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-v4\\values-xlarge-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-xlarge\\layouts.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 473,
+                        "endColumn": 65,
+                        "endOffset": 537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 59,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-xlarge\\layouts.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 539,
+                        "endColumn": 56,
+                        "endOffset": 594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 59,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-xlarge\\layouts.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 53,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endColumn": 62,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 62,
+                        "endOffset": 238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 68,
+                    "endOffset": 371
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 243,
+                        "endColumn": 68,
+                        "endOffset": 307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 376,
+                    "endColumn": 69,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 312,
+                        "endColumn": 69,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 65,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 382,
+                        "endColumn": 65,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 66,
+                    "endOffset": 574
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 448,
+                        "endColumn": 66,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 579,
+                    "endColumn": 62,
+                    "endOffset": 637
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 515,
+                        "endColumn": 62,
+                        "endOffset": 573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 642,
+                    "endColumn": 60,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 578,
+                        "endColumn": 60,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 68,
+                    "endOffset": 767
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endColumn": 68,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 772,
+                    "endColumn": 68,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\values-xlarge\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 68,
+                        "endOffset": 773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 841,
+                    "endColumn": 55,
+                    "endOffset": 892
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 478,
+                        "endColumn": 52,
+                        "endOffset": 529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 897,
+                    "endColumn": 45,
+                    "endOffset": 938
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 274,
+                        "endColumn": 42,
+                        "endOffset": 315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 943,
+                    "endColumn": 46,
+                    "endOffset": 985
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 185,
+                        "endColumn": 43,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 990,
+                    "endColumn": 47,
+                    "endOffset": 1033
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 140,
+                        "endColumn": 44,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1038,
+                    "endColumn": 46,
+                    "endOffset": 1080
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 96,
+                        "endColumn": 43,
+                        "endOffset": 138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1085,
+                    "endColumn": 45,
+                    "endOffset": 1126
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 53,
+                        "endColumn": 42,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1131,
+                    "endColumn": 47,
+                    "endOffset": 1174
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 229,
+                        "endColumn": 44,
+                        "endOffset": 272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1179,
+                    "endColumn": 60,
+                    "endOffset": 1235
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 364,
+                        "endColumn": 57,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1240,
+                    "endColumn": 58,
+                    "endOffset": 1294
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 422,
+                        "endColumn": 55,
+                        "endOffset": 476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1299,
+                    "endColumn": 49,
+                    "endOffset": 1344
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 317,
+                        "endColumn": 46,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1349,
+                    "endColumn": 54,
+                    "endOffset": 1399
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 531,
+                        "endColumn": 51,
+                        "endOffset": 581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1404,
+                    "endColumn": 60,
+                    "endOffset": 1460
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 583,
+                        "endColumn": 57,
+                        "endOffset": 639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1465,
+                    "endColumn": 88,
+                    "endOffset": 1549
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-xlarge\\layouts.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 295,
+                        "endColumn": 85,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1554,
+                    "endColumn": 94,
+                    "endOffset": 1644
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-xlarge\\layouts.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 381,
+                        "endColumn": 91,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1649,
+                    "endColumn": 104,
+                    "endOffset": 1749
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-xlarge\\layouts.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 193,
+                        "endColumn": 101,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1754,
+                    "endColumn": 85,
+                    "endOffset": 1835
+                },
+                "from": {
+                    "file": "C:\\Users\\samsung\\workspace\\BlackWallet\\app\\src\\main\\res\\values-xlarge\\layouts.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 110,
+                        "endColumn": 82,
+                        "endOffset": 191
+                    }
+                }
+            }
+        ]
+    }
+]
